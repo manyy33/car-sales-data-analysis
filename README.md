@@ -1,28 +1,65 @@
-# 🚗 Car Sales Data Analysis — Power BI Dashboard
+# 🚗 Car Sales Data Analysis | Power BI
 
-## 📌 Project Overview
-An end-to-end data analysis project on automobile sales data.
-The project includes data cleaning, data modelling, and building 
-interactive dashboards using Power BI.
+I built this project to practice and showcase my data analytics skills 
+using a real-world style automobile sales dataset. The goal was to go 
+beyond just learning theory — I wanted to actually build something that 
+answers business questions through clean data and good visuals.
 
-## 🛠️ Tools & Technologies Used
-- **Power BI** — Data modelling & interactive dashboards
-- **Microsoft Excel / CSV** — Raw data source
-- **DAX** — Measures and calculated columns
+---
 
-## 📁 Files in this Repository
-| File | Description |
-|------|-------------|
-| Car_sales.csv | Raw automobile sales dataset |
-| Automobile_data.csv | Supporting data |
-| BI Project.docx | Project documentation |
-| BI REPORT.pdf | Final analysis report |
-| Final_Project.pbix | Power BI dashboard file |
+## What This Project Is About
 
-## 📊 Key Highlights
-- Analyzed automobile sales trends across multiple categories
-- Built interactive visualizations for business insights
-- Performed data modelling to connect multiple data sources
+This is an end-to-end data analytics project on automobile sales data. 
+I worked with multiple datasets covering sales transactions, customer 
+profiles, vehicle details, and dealership performance — then cleaned, 
+modelled, and visualized everything in Power BI.
 
-## 👤 Author
-Maanvi Tyagi
+---
+
+## Tools I Used
+
+- **Power BI** — for data modelling, DAX measures, and dashboard design
+- **Excel / CSV** — raw data source
+- **Power Query** — data cleaning and transformation
+- **DAX** — for building KPIs and calculated measures
+
+---
+
+## What I Explored
+
+- Which car models and brands sold the most
+- How sales varied across regions and dealerships
+- Monthly and quarterly sales trends over time
+- Customer loyalty patterns and high-value segments
+- After-sales service performance and satisfaction scores
+
+---
+
+## Project Files
+
+| File | What It Is |
+|------|------------|
+| `Car_sales.csv` | Main automobile sales dataset |
+| `Automobile_data.csv` | Supporting vehicle data |
+| `Final_Project.pbix` | Power BI dashboard (main file) |
+| `BI_Project_Report.docx` | Project documentation |
+| `POWER_BI_REPORT_Maanvi.docx` | Detailed report write-up |
+
+---
+
+## Key Takeaways
+
+Working on this taught me how much difference a clean data model makes 
+before you even start building visuals. Writing DAX measures, setting up 
+proper relationships between tables, and designing a dashboard that 
+actually answers real questions was a great hands-on experience.
+
+---
+
+## About Me
+
+I'm Maanvi Tyagi, currently learning data analytics with a focus on 
+Power BI, Excel, and SQL. This is one of my first end-to-end projects 
+and I'm actively building more.
+
+📧 Feel free to connect with me on LinkedIn!
