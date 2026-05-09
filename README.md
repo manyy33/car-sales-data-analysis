@@ -34,6 +34,8 @@ modelled, and visualized everything in Power BI.
 - After-sales service performance and satisfaction scores
 
 ---
+## Dashboard Preview
+![Dashboard](dashboard.png)
 
 ## Project Files
 
@@ -63,3 +65,5 @@ Power BI, Excel, and SQL. This is one of my first end-to-end projects
 and I'm actively building more.
 
 📧 Feel free to connect with me on LinkedIn!
+
+ 
