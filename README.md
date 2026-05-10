@@ -43,7 +43,7 @@ modelled, and visualized everything in Power BI.
 |------|------------|
 | `Car_sales.csv` | Main automobile sales dataset |
 | `Automobile_data.csv` | Supporting vehicle data |
-| `Final_Project.pbix` | Power BI dashboard (main file) |
+| `FINAL_project.pbix` | Power BI dashboard (main file) |
 | `BI_Project_Report.docx` | Project documentation |
 | `POWER_BI_REPORT_Maanvi.docx` | Detailed report write-up |
 
